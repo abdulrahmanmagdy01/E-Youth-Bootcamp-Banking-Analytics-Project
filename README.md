@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="EYouth-Bootcamp.png" alt="EYouth Bootcamp Logo" width="700"/>
-</p>
-
 # 💼 Azure-Based Banking Intelligence & Analytics System
 
-This project was developed as part of the **E-Youth Bootcamp** to build a comprehensive banking intelligence and analytics system using **Microsoft Azure**, **SQL**, **Power BI**, and **machine learning**.
+<p align="center">
+  <img src="EYouth-Bootcamp.png" alt="EYouth Bootcamp Logo" width="600"/>
+</p>
+
+
+
 
 The system enables banking institutions to gain deep insights into customer behavior, loan activities, transactions, and support efficiency through interactive dashboards and predictive models.
 
